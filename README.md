@@ -9,9 +9,7 @@ This Python script automates the login process for a Moodle instance by:
 - Constructing a raw HTTP POST login request
 - Saving the request to a `login_data.txt` file for debugging or reuse
 
----
-
-## 🔧 Use Case
+## Use Case
 
 This script is useful for:
 
@@ -20,9 +18,7 @@ This script is useful for:
 - Practicing HTTP request crafting and CSRF token handling
 - Automation or SRE training scenarios
 
----
-
-## 🚀 How to Run
+## How to Run
 
 1. Install dependencies:
    ```bash
